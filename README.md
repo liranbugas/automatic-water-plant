@@ -1,9 +1,15 @@
 1.	Introduction
+
   a.	In 05/03/2022 in Or Yehuda I wanted plants in my house.
+  
   b.	There are many benefits for plants inside the house:
+  
     i.	Filtering the air by reducing dust and chemicals.
+    
     ii.	Increasing the moisture and oxygen in the room.
+    
     iii.	Adding more naturalistic and welcoming style in the room.
+    
   c.	But there is a problem of watering the plant for many lazy people or people who not always sleep in this house. 
   d.	The solution for this is to make a reliable and autonomous mechanism that water the plants but without over watering them.
   e.	This project solves this problem with using stm32 microcontroller for getting better precision and beneficial power consumption.
